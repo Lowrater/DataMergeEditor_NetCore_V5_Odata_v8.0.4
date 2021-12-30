@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZt0NS8g9l0+f4bPDvX39ZUtYeoluS4mSNhLJNqileVRXh935LGHwQVKRIsYaMPJ/l5xxcT/7yFjEwDzjPQUsw==",
+  "dgSpecHash": "5ki6QkWsRzo9jHVQQ9nalWbzxjkL7eFaeGY5U4iROc600pjB/i4bbUVabjB9uQXEcUuGp+F9DcuA2DwAX5wxIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\OdataApi_V5.csproj",
+  "projectFilePath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\OdataApi_V5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djmar\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.12\\microsoft.aspnetcore.jsonpatch.5.0.12.nupkg.sha512",
     "C:\\Users\\djmar\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.12\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.12.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\OdataApi_V5.csproj": {}
+    "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\OdataApi_V5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\OdataApi_V5.csproj": {
+    "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\OdataApi_V5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\OdataApi_V5.csproj",
+        "projectUniqueName": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\OdataApi_V5.csproj",
         "projectName": "OdataApi_V5",
-        "projectPath": "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\OdataApi_V5.csproj",
+        "projectPath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\OdataApi_V5.csproj",
         "packagesPath": "C:\\Users\\djmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djmar\\source\\repos\\OdataApi_V5\\OdataApi_V5\\obj\\",
+        "outputPath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_Odata_v8.0.4\\OdataApi_V5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft visual studio\\Shared\\NuGetPackages"
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
